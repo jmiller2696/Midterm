@@ -1,0 +1,42 @@
+.pin {
+    width: 275px;
+    height: 1000px;
+    border-radius: 15px;
+    border: 5px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    background-position: 50%;
+}
+
+h1 {
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+.pin h1 {
+    background-color: #385B66;
+    text-align: center;
+    border-radius: 10px;
+}
+
+html {
+    background-color: aquamarine;
+}
+
+a {
+    background-color: beige;
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: none;
+    border-radius: 1px;
+}
+
+.wrapper {
+    position: absolute;
+}
+
+article {
+    position: relative;
+}
